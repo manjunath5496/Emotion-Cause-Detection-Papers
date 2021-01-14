@@ -26,4 +26,6 @@ Annotation of a Literature Corpus with Semantic Roles of Emotions</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Cause-Detection-Papers/blob/master/emc(12).pdf" style="text-decoration:none;">Emotion Cause Detection with Linguistic Constructions</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Cause-Detection-Papers/blob/master/emc(13).pdf" style="text-decoration:none;">A Text-driven Rule-based System for Emotion Cause Detection</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Cause-Detection-Papers/blob/master/emc(14).pdf" style="text-decoration:none;">Emotion Cause Detection with Linguistic Constructions</a></li>
+
 </ul>
